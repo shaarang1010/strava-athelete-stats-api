@@ -1,5 +1,7 @@
 <div align="center">
-## Strava stats api for athelete monitoring
+
+# Strava stats api for athelete monitoring
+
 </div>
 
 ## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
@@ -23,3 +25,19 @@ The data can be used to compare peformance over a period of time to tweak athele
 |_requirements.txt
 
 ```
+
+## Dependencies
+
+-[FastAPI](https://fastapi.tiangolo.com/)
+
+- [Strawberry](https://strawberry.rocks/)
+
+- [pydantic](https://pydantic-docs.helpmanual.io/)
+
+- [terraform](https://www.terraform.io/)
+
+## Strava API
+
+Strava API can be accessed [here](https://developers.strava.com/docs/reference/).
+
+If you wish to fork this repo, please create an app [here](https://developers.strava.com/docs/reference/) to get an API key.
