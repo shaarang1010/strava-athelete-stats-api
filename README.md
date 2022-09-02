@@ -4,6 +4,8 @@
 
 </div>
 
+**NOTE: This repo is work in progress**
+
 ## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
 The purpose of this api is to track multiple athlete's stats via their strava profile and aggerate their data to track and monitor their performance over time.
