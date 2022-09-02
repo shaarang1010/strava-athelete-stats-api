@@ -28,7 +28,7 @@ The data can be used to compare peformance over a period of time to tweak athele
 
 ## Dependencies
 
--[FastAPI](https://fastapi.tiangolo.com/)
+- [FastAPI](https://fastapi.tiangolo.com/)
 
 - [Strawberry](https://strawberry.rocks/)
 
