@@ -1,7 +1,10 @@
 from typing import Optional
 from pydantic import BaseModel
+from db.database import Base
 
-class StravaAthlete(BaseModel):
+
+class StravaAthlete(Base):
+    __tablename__ = 'athelete'
     username: str
     firstname: str
     lastname: str
@@ -9,5 +12,3 @@ class StravaAthlete(BaseModel):
     profile: str
     ftp: float
     weight: float
-
-
