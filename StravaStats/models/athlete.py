@@ -15,4 +15,4 @@ class StravaAthlete(Base):
     weight = Column(Float)
     is_active = Column(Boolean, default=True)
 
-    stats = relationship("Stats", back_populates="athletes")
+    stats = relationship("Stats", back_populates="athletes")   
